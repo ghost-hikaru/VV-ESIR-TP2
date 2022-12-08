@@ -27,3 +27,6 @@ The program should take as input the path to the source code of the project. It 
 Include in this repository the code of your application. Remove all unnecessary files like compiled binaries. See the [instructions](../sujet.md) for suggestions on the projects to use.
 
 *Disclaimer* In a real project not all fields need to be accessed with a public getter.
+
+### Answer of exercice 4
+For this exercice, we have modified the class **PublicElementsPrinter** and more precisely, we had adapt the visitor patern. We also modified the class **Main** to create file and write the output in this file (the name of this file is _output.txt_). Finally we created a class name **App**. In this class, we made all modification and comparaison to prepare the output. You will find the project in the folder **Tp2**
